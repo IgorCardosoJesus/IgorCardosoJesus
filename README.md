@@ -3,7 +3,7 @@
 Eu sou um desenvolvedor apaixonado por criar soluções inovadoras e melhorar o mundo através da tecnologia! 🚀 Aqui você encontrará meus projetos, aprendizados e um pouquinho sobre o que me motiva. 
 
 ## 🌟 Sobre Mim
-- 🧑‍🎓 Aluno do curso de Engenharia de Software e estudioso da área de programação, enquanto por um lado vou na ravina e aprendo conceitos do core da Engenharia de Software, com o Prof. Pressman e Tanenbaum, faço projetos pessoais para facilitar a minha vida e a vida de quem está ao meu redor.
+- 🧑‍🎓 Militar, Aluno do curso de Engenharia de Software e estudioso da área de programação, enquanto por um lado vou na ravina e aprendo conceitos do core da Engenharia de Software, com o Prof. Pressman e Tanenbaum, faço projetos pessoais para facilitar a minha vida e a vida de quem está ao meu redor.
 - 💻 Desenvolvendo minhas HardSkills como **Full Stack**, mais voltado na área do **Beck End e Banco de Dados**.
 - 🌱 Sempre aprendendo algo novo, tenho enorme prazer em aprender e aplicar meu conhecimento em alguma área da minha vida.
 - 🎯 Foco atual: Desenvolvendo um **Sistema Gerenciador de Escalas simples (1 pessoa por dia) e escala dupla (2 pessoas por dia)**.
@@ -20,15 +20,6 @@ Eu sou um desenvolvedor apaixonado por criar soluções inovadoras e melhorar o 
 - 🛠️ Resolver problemas complexos e melhorar a performance de sistemas.
 - ⚡ Participar de projetos que impactem positivamente as pessoas, tornando-as mais eficiente no seu dia a dia.
 
-
-![Snake animation](https://github.com/IgorCardosoJesus/IgorCardosoJesus/blob/output/github-contribution-grid-snake.svg)
-
-## 📫 Entre em contato comigo
+## 📫 Como entrar em contato comigo
 - ✉️ Email: [igor.alunoengsoftware@gmail.com](mailto:igor.alunoengsoftware@gmail.com)
 - 💼 LinkedIn: [Igor Cardoso](www.linkedin.com/in/cardoso-igor-alu-eng-software)
-
-## 💡 Ideias para o Futuro
-- Continuar desenvolvendo soluções e me posicionar no mercado na área Dev de vez.
-- Melhorar minhas **Hard Skills**.
----
-Se gostou, entre em contato para compartilhar ideias! Obrigado por visitar meu perfil. 😊
