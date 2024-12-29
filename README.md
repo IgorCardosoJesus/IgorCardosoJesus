@@ -20,6 +20,9 @@ Eu sou um desenvolvedor apaixonado por criar soluções inovadoras e melhorar o 
 - 🛠️ Resolver problemas complexos e melhorar a performance de sistemas.
 - ⚡ Participar de projetos que impactem positivamente as pessoas, tornando-as mais eficiente no seu dia a dia.
 
+
+![Snake animation](https://github.com/IgorCardosoJesus/IgorCardosoJesus/blob/output/github-contribution-grid-snake.svg)
+
 ## 📫 Entre em contato comigo
 - ✉️ Email: [igor.alunoengsoftware@gmail.com](mailto:igor.alunoengsoftware@gmail.com)
 - 💼 LinkedIn: [Igor Cardoso](www.linkedin.com/in/cardoso-igor-alu-eng-software)
