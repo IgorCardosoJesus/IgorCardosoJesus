@@ -3,7 +3,7 @@
 Eu sou um desenvolvedor apaixonado por criar soluções inovadoras e melhorar o mundo através da tecnologia! 🚀 Aqui você encontrará meus projetos, aprendizados e um pouquinho sobre o que me motiva. 
 
 ## 🌟 Sobre Mim
-- 🧑‍🎓 Militar, Aluno do curso de Engenharia de Software e estudioso da área de programação, enquanto por um lado vou na ravina e aprendo conceitos do core da Engenharia de Software, com o Prof. Pressman e Tanenbaum, faço projetos pessoais para facilitar a minha vida e a vida de quem está ao meu redor.
+- 🧑‍🎓 Militar, Aluno do curso de Engenharia de Software e estudioso da área de programação. Enquanto vou na ravina e aprendo conceitos do core da Engenharia de Software, com o Prof. Pressman e Tanenbaum, por outro lado faço projetos pessoais para facilitar a minha vida e a vida de quem está ao meu redor.
 - 💻 Desenvolvendo minhas HardSkills como **Full Stack**, mais voltado na área do **Beck End e Banco de Dados**.
 - 🌱 Sempre aprendendo algo novo, tenho enorme prazer em aprender e aplicar meu conhecimento em alguma área da minha vida.
 - 🎯 Foco atual: Desenvolvendo um **Sistema Gerenciador de Escalas simples (1 pessoa por dia) e escala dupla (2 pessoas por dia)**.
